@@ -1,0 +1,1 @@
+# Isolated example of getting jwt, applying it to middleware, and pulling the data from it
